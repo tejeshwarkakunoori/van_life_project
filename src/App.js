@@ -4,6 +4,8 @@ import Home from "./home/Home";
 import About from "./about/About";
 import Vans from "./vans/Vans";
 
+import "./server";
+
 export default function App() {
   return (
     <BrowserRouter>

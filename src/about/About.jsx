@@ -22,7 +22,7 @@ const About = () => {
         <Link className="link-button" to="/vans">Explore our vans</Link>
       </div>
 
-      <footer>Ⓒ 2022 #VANLIFE</footer>
+      {/* <footer>Ⓒ 2022 #VANLIFE</footer> */}
     </div>
   )
 }
