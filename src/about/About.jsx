@@ -6,7 +6,7 @@ import React from 'react'
 const About = () => {
   return (
     <div className="about-container">
-      <img className="about-hero-image" src={bgImg} alt="van Image" />
+      <img className="about-hero-image" src={bgImg}/>
       <div className="about-page-content">
         <h2>Don’t squeeze in a sedan when you could relax in a van.</h2>
         <p>Our mission is to enliven your road trip with the perfect travel van rental. 
